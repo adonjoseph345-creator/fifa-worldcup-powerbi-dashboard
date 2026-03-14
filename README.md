@@ -56,5 +56,4 @@ GitHub Profile:
 https://github.com/adonjoseph345-creator
 
 
-## ⭐ If you like this project
-Give the repository a **star** on GitHub.
+
